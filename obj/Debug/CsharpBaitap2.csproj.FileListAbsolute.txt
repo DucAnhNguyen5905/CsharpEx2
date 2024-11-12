@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\CsharpBaitap2\obj\Debug\CsharpBaitap2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CsharpBaitap2\obj\Debug\CsharpBaitap2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CsharpBaitap2\bin\Debug\CsharpBaitap2.exe.config
+C:\Users\LENOVO\source\repos\CsharpBaitap2\bin\Debug\CsharpBaitap2.exe
+C:\Users\LENOVO\source\repos\CsharpBaitap2\bin\Debug\CsharpBaitap2.pdb
+C:\Users\LENOVO\source\repos\CsharpBaitap2\bin\Debug\Data_Process.dll
+C:\Users\LENOVO\source\repos\CsharpBaitap2\bin\Debug\Validate_Data.dll
+C:\Users\LENOVO\source\repos\CsharpBaitap2\bin\Debug\Data_Process.pdb
+C:\Users\LENOVO\source\repos\CsharpBaitap2\bin\Debug\Validate_Data.pdb
+C:\Users\LENOVO\source\repos\CsharpBaitap2\obj\Debug\CsharpBa.5D2EABCE.Up2Date
+C:\Users\LENOVO\source\repos\CsharpBaitap2\obj\Debug\CsharpBaitap2.exe
+C:\Users\LENOVO\source\repos\CsharpBaitap2\obj\Debug\CsharpBaitap2.pdb
